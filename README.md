@@ -72,14 +72,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhaasd&theme=tokyonight&margin-w=15" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suhaasd&color=00e5a0&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
